@@ -1,0 +1,44 @@
+Native libraries (armeabi-v7a, ELF32 ARM) — Modern Warplanes v1.20.6
+==================================================================
+
+### libapplovin-native-crash-reporter.so (472K)
+      Class:                             ELF32
+      Type:                              DYN (Shared object file)
+      Machine:                           ARM
+     0x0000000e (SONAME)                     Library soname: [libapplovin-native-crash-reporter.so]
+    /home/z/my-project/apk_dl/package/ModernWarplanes_v1.20.6_decompiled/native-libs/libapplovin-native-crash-reporter.so: ELF 32-bit LSB shared object, ARM, EABI5 version 1 (SYSV), dynamically linked, for Android 24, built by NDK r23c (8568313), BuildID[sha1]=d5ec83ce9aa215082cf7ad6dcb08094effcfee80, stripped
+
+### libil2cpp.so (69M)
+      Class:                             ELF32
+      Type:                              DYN (Shared object file)
+      Machine:                           ARM
+     0x0000000e (SONAME)                     Library soname: [libil2cpp.so]
+    /home/z/my-project/apk_dl/package/ModernWarplanes_v1.20.6_decompiled/native-libs/libil2cpp.so: ELF 32-bit LSB shared object, ARM, EABI5 version 1 (SYSV), dynamically linked, for Android 25, built by NDK r27c (12479018), BuildID[sha1]=9877a50be3f0195950356ce8ec35cc50e6e63c75, stripped
+
+### libmain.so (12K)
+      Class:                             ELF32
+      Type:                              DYN (Shared object file)
+      Machine:                           ARM
+     0x0000000e (SONAME)                     Library soname: [libmain.so]
+    /home/z/my-project/apk_dl/package/ModernWarplanes_v1.20.6_decompiled/native-libs/libmain.so: ELF 32-bit LSB shared object, ARM, EABI5 version 1 (SYSV), dynamically linked, for Android 25, built by NDK r27c (12479018), BuildID[sha1]=3f09847efcb5c8e5b55d145d3522fc069bb79436, stripped
+
+### libsqlite3.so (1.2M)
+      Class:                             ELF32
+      Type:                              DYN (Shared object file)
+      Machine:                           ARM
+     0x0000000e (SONAME)                     Library soname: [libe_sqlite3.so]
+    /home/z/my-project/apk_dl/package/ModernWarplanes_v1.20.6_decompiled/native-libs/libsqlite3.so: ELF 32-bit LSB shared object, ARM, EABI5 version 1 (SYSV), dynamically linked, for Android 21, built by NDK r27c (12479018), BuildID[sha1]=b5337955d976262e135354636a478db1af4cb3ed, stripped
+
+### libunity.so (20M)
+      Class:                             ELF32
+      Type:                              DYN (Shared object file)
+      Machine:                           ARM
+     0x0000000e (SONAME)                     Library soname: [libunity.so]
+    /home/z/my-project/apk_dl/package/ModernWarplanes_v1.20.6_decompiled/native-libs/libunity.so: ELF 32-bit LSB shared object, ARM, EABI5 version 1 (SYSV), dynamically linked, for Android 25, built by NDK r27c (12479018), BuildID[sha1]=c325eb5c1071e6dc9543b4652be66efc223f309b, stripped
+
+### libwebrtccsharpwrap.so (6.1M)
+      Class:                             ELF32
+      Type:                              DYN (Shared object file)
+      Machine:                           ARM
+    /home/z/my-project/apk_dl/package/ModernWarplanes_v1.20.6_decompiled/native-libs/libwebrtccsharpwrap.so: ELF 32-bit LSB shared object, ARM, EABI5 version 1 (SYSV), dynamically linked, for Android 16, built by NDK r16b (4479499), stripped
+
